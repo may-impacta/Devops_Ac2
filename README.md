@@ -25,4 +25,3 @@ Comando Git Fetch( print_07)
 Atualiza o repositório local, e leva os dados para o remoto.
 
 Comando Git Checkout (print_08)
-
