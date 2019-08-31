@@ -18,9 +18,9 @@ Comita as informações no READM.MD do repositório local para o repositório re
 Comando Git Push(print_05)
 Grava as modificações do repositório local no remoto
 
-Comando Git Pull
+Comando Git Pull(print_06)
 Atualiza o repositório local de acordo com o repositório remoto. Levando os dados para o diretório
 
-Comando Git Fetch
+Comando Git Fetch( print_07)
 Atualiza o repositório local, e leva os dados para o remoto.
 
