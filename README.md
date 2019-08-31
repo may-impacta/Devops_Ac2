@@ -24,3 +24,5 @@ Atualiza o repositório local de acordo com o repositório remoto. Levando os da
 Comando Git Fetch( print_07)
 Atualiza o repositório local, e leva os dados para o remoto.
 
+Comando Git Checkout (print_08)
+
