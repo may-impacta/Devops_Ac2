@@ -16,7 +16,7 @@ Comando Git Commit(print_04)
 Comita as informações no READM.MD do repositório local para o repositório remoto.
 
 Comando Git Push(print_05)
-Coloca os commits para um repositório remoto
+Grava as modificações do repositório local no remoto
 
 Comando Git Pull
 Atualiza o repositório local de acordo com o repositório remoto. Levando os dados para o diretório
